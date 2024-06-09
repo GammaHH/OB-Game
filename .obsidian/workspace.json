@@ -13,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SF-合金冶煉/強化合金錠.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "75b578ee9779077c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a3801c4722a99937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模板資料夾/黏液筆記模板-一般.md",
+                "file": "SF-合金冶煉/硬化金屬錠.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,12 +21,12 @@
             }
           },
           {
-            "id": "87b54da46d5f868a",
+            "id": "9b93f95b98626d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "百科筆記原則.md",
+                "file": "SF-合金冶煉/TEST.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "百科筆記原則.md",
+                "file": "SF-合金冶煉/TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "百科筆記原則.md",
+                "file": "SF-合金冶煉/TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "百科筆記原則.md"
+                "file": "SF-合金冶煉/TEST.md"
               }
             }
           },
@@ -168,14 +149,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5cf46d1c182a9767",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           },
@@ -192,10 +165,26 @@
             }
           },
           {
+            "id": "5cf46d1c182a9767",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
             "id": "1a8b4977b698cc5d",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b94e88b4cf03594",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
@@ -218,15 +207,20 @@
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "87b54da46d5f868a",
+  "active": "9b93f95b98626d8c",
   "lastOpenFiles": [
-    "模板資料夾/黏液筆記模板-一般.md",
-    "百科筆記原則.md",
     "SF-合金冶煉/硬化金屬錠.md",
+    "SF-合金冶煉/TEST.md",
+    "SF-合金冶煉/GG.md",
+    "百科筆記原則.md",
+    "SF-合金冶煉/這樣有嗎.md",
+    "工作日誌/2024-06-09.md",
     "SF-合金冶煉/強化合金錠.md",
+    "模板資料夾/黏液筆記模板-一般.md",
     "SF-合金冶煉/合金冶煉-資料庫.md",
     "SF-合金冶煉/大馬士革鋼錠.md",
     "SF-合金冶煉/起泡錠.md",
@@ -236,7 +230,6 @@
     "SF-合金冶煉/天然資源類(GEO).md",
     "SF-合金冶煉/放射類元素.md",
     "SF-合金冶煉/壓製碳類元素.md",
-    "工作日誌/2024-06-09.md",
     "工作日誌/2024-06-03.md",
     "SF-農耕工藝關係筆記/資料庫.md",
     "SF-農耕工藝關係筆記/深板岩 (Deepslate).md",
@@ -250,9 +243,6 @@
     "SF-農耕工藝關係筆記/紅石 (Redstone).md",
     "SF-農耕工藝關係筆記/粗金 (Raw Gold).md",
     "SF-農耕工藝關係筆記/花卉 (Flower).md",
-    "SF-農耕工藝關係筆記/泥土 (Dirt).md",
-    "SF-農耕工藝關係筆記/力量 (Power).md",
-    "SF-農耕工藝關係筆記/黑暗 (Darkness).md",
     "SF-農耕工藝關係筆記/未命名",
     "SF-農耕工藝關係筆記"
   ]
