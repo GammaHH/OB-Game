@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "a33294b6eb2678f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "09bb7c16fbff4669",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f536b8ccddd2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SF-合金冶煉/強化合金錠.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "75b578ee9779077c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3801c4722a99937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模板資料夾/黏液筆記模板-一般.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87b54da46d5f868a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "百科筆記原則.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "519dba92790b22fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f59fe893f67bf9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ed886dc6317b9a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "6e9b803ee642154c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08ec4f55950c2f9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c90c994e6278f4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a6eacbc4772d33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a83008ddfcbbbc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "百科筆記原則.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e895bf5053e0c2ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "百科筆記原則.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f67d1c50ae21ee06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5cac8a9eb8e86de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "百科筆記原則.md"
+              }
+            }
+          },
+          {
+            "id": "4f816817426c307c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cf46d1c182a9767",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "45004fb910f351ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1a8b4977b698cc5d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "87b54da46d5f868a",
+  "lastOpenFiles": [
+    "模板資料夾/黏液筆記模板-一般.md",
+    "百科筆記原則.md",
+    "SF-合金冶煉/硬化金屬錠.md",
+    "SF-合金冶煉/強化合金錠.md",
+    "SF-合金冶煉/合金冶煉-資料庫.md",
+    "SF-合金冶煉/大馬士革鋼錠.md",
+    "SF-合金冶煉/起泡錠.md",
+    "模板資料夾",
+    "Excalidraw/Drawing 2024-06-09 22.54.04.excalidraw.md",
+    "Excalidraw",
+    "SF-合金冶煉/天然資源類(GEO).md",
+    "SF-合金冶煉/放射類元素.md",
+    "SF-合金冶煉/壓製碳類元素.md",
+    "工作日誌/2024-06-09.md",
+    "工作日誌/2024-06-03.md",
+    "SF-農耕工藝關係筆記/資料庫.md",
+    "SF-農耕工藝關係筆記/深板岩 (Deepslate).md",
+    "SF-農耕工藝關係筆記/碎片 (Scrappy).md",
+    "SF-農耕工藝關係筆記/強化 (Reinforced).md",
+    "SF-農耕工藝關係筆記/下界石英 (Nether Quartz).md",
+    "SF-農耕工藝關係筆記/青金石 (Lapis).md",
+    "SF-農耕工藝關係筆記/史萊姆 (Slime).md",
+    "SF-合金冶煉",
+    "工作日誌",
+    "SF-農耕工藝關係筆記/紅石 (Redstone).md",
+    "SF-農耕工藝關係筆記/粗金 (Raw Gold).md",
+    "SF-農耕工藝關係筆記/花卉 (Flower).md",
+    "SF-農耕工藝關係筆記/泥土 (Dirt).md",
+    "SF-農耕工藝關係筆記/力量 (Power).md",
+    "SF-農耕工藝關係筆記/黑暗 (Darkness).md",
+    "SF-農耕工藝關係筆記/未命名",
+    "SF-農耕工藝關係筆記"
+  ]
+}

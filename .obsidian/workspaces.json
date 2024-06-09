@@ -1,0 +1,198 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "a33294b6eb2678f4",
+        "type": "split",
+        "children": [
+          {
+            "id": "102984b1374372cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3d7a4586a4a54104",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "大學學業/二下/藥劑學/藥劑學筆記.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                },
+                "group": "750c6c5515c88ec9"
+              }
+            ]
+          },
+          {
+            "id": "81812ef24c814910",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41200b8952c93d69",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "大學學業/二下/藥劑學/藥劑學筆記.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                },
+                "group": "750c6c5515c88ec9"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "519dba92790b22fc",
+        "type": "split",
+        "children": [
+          {
+            "id": "2f59fe893f67bf9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6ed886dc6317b9a4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6e9b803ee642154c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "08ec4f55950c2f9e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "c90c994e6278f4d5",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a6eacbc4772d33c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a83008ddfcbbbc9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "大學學業/二下/藥劑學/藥劑學筆記.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e895bf5053e0c2ba",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "大學學業/二下/藥劑學/藥劑學筆記.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f67d1c50ae21ee06",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a5cac8a9eb8e86de",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "大學學業/二下/藥劑學/藥劑學筆記.md"
+                  }
+                }
+              },
+              {
+                "id": "4f816817426c307c",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5cf46d1c182a9767",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:開始/停止錄音": false,
+          "workspaces:管理工作區配置": false,
+          "switcher:開啟快速切換": false,
+          "graph:查看關聯圖": false,
+          "canvas:建立新畫布": false,
+          "daily-notes:開啟今天的每日筆記": false,
+          "templates:插入模板": false,
+          "command-palette:開啟命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false
+        }
+      },
+      "active": "3d7a4586a4a54104",
+      "mtime": "2024-05-27T11:18:10+08:00"
+    }
+  },
+  "active": "default"
+}
