@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9b93f95b98626d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SF-合金冶煉/TEST.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SF-合金冶煉/TEST.md",
+                "file": "SF-合金冶煉/硬化金屬錠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SF-合金冶煉/TEST.md",
+                "file": "SF-合金冶煉/硬化金屬錠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SF-合金冶煉/TEST.md"
+                "file": "SF-合金冶煉/硬化金屬錠.md"
               }
             }
           },
@@ -211,10 +197,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9b93f95b98626d8c",
+  "active": "d0f536b8ccddd2ee",
   "lastOpenFiles": [
-    "SF-合金冶煉/硬化金屬錠.md",
     "SF-合金冶煉/TEST.md",
+    "SF-合金冶煉/硬化金屬錠.md",
     "SF-合金冶煉/GG.md",
     "百科筆記原則.md",
     "SF-合金冶煉/這樣有嗎.md",
