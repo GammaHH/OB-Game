@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SF-合金冶煉/硬化金屬錠.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b93f95b98626d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SF-合金冶煉/TEST.md",
+                "file": "SF-Fluffy機器/機器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c90c994e6278f4d5",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SF-合金冶煉/TEST.md",
+                "file": "SF-Fluffy機器/機器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SF-合金冶煉/TEST.md",
+                "file": "SF-Fluffy機器/機器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SF-合金冶煉/TEST.md"
+                "file": "SF-Fluffy機器/機器.md"
               }
             }
           },
@@ -189,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,42 +195,53 @@
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9b93f95b98626d8c",
+  "active": "d0f536b8ccddd2ee",
   "lastOpenFiles": [
-    "SF-合金冶煉/硬化金屬錠.md",
-    "SF-合金冶煉/TEST.md",
-    "SF-合金冶煉/GG.md",
-    "百科筆記原則.md",
-    "SF-合金冶煉/這樣有嗎.md",
-    "工作日誌/2024-06-09.md",
-    "SF-合金冶煉/強化合金錠.md",
+    "SF-Fluffy機器/背包卸載器.md",
+    "SF-Fluffy機器/機器.md",
+    "SF-Fluffy機器/背包裝載器.md",
+    "Pasted image 20240610122513.png",
+    "SF-Fluffy機器/高級自動退魔機.md",
+    "Pasted image 20240610122029.png",
+    "Pasted image 20240610121631.png",
+    "SF-Fluffy機器/自動盔甲鍛造台.md",
+    "Pasted image 20240610121316.png",
+    "SF-Fluffy機器/自動魔法合成台.md",
+    "SF-Fluffy機器/自動鋸木機.md",
+    "SF-Fluffy機器/自動進階合成台.md",
+    "SF-Fluffy機器/自動工作台.md",
+    "SF-Fluffy機器/自動古代祭壇.md",
+    "SF-Fluffy機器/灑水器.md",
+    "Pasted image 20240610120601.png",
+    "Pasted image 20240610120541.png",
+    "Pasted image 20240610120103.png",
+    "Pasted image 20240610115358.png",
+    "Pasted image 20240610114720.png",
+    "SF-Fluffy機器/Untitled.md",
+    "SF-Fluffy機器/Untitled 1.md",
+    "模板資料夾/黏液筆記模板-描述機器.md",
     "模板資料夾/黏液筆記模板-一般.md",
+    "百科筆記原則.md",
+    "Pasted image 20240610113352.png",
+    "SF-Fluffy機器/蓬鬆機器.md",
     "SF-合金冶煉/合金冶煉-資料庫.md",
-    "SF-合金冶煉/大馬士革鋼錠.md",
+    "SF-合金冶煉/智能工廠.md",
+    "SF-Fluffy機器/機器",
+    "SF-Fluffy機器",
+    "SF-合金冶煉/壓製碳類元素.md",
+    "SF-合金冶煉/硬化金屬錠.md",
     "SF-合金冶煉/起泡錠.md",
-    "模板資料夾",
-    "Excalidraw/Drawing 2024-06-09 22.54.04.excalidraw.md",
-    "Excalidraw",
+    "SF-合金冶煉/強化合金錠.md",
     "SF-合金冶煉/天然資源類(GEO).md",
     "SF-合金冶煉/放射類元素.md",
-    "SF-合金冶煉/壓製碳類元素.md",
-    "工作日誌/2024-06-03.md",
-    "SF-農耕工藝關係筆記/資料庫.md",
-    "SF-農耕工藝關係筆記/深板岩 (Deepslate).md",
-    "SF-農耕工藝關係筆記/碎片 (Scrappy).md",
-    "SF-農耕工藝關係筆記/強化 (Reinforced).md",
-    "SF-農耕工藝關係筆記/下界石英 (Nether Quartz).md",
-    "SF-農耕工藝關係筆記/青金石 (Lapis).md",
-    "SF-農耕工藝關係筆記/史萊姆 (Slime).md",
     "SF-合金冶煉",
+    "模板資料夾",
+    "Excalidraw",
+    "SF- 資源",
     "工作日誌",
-    "SF-農耕工藝關係筆記/紅石 (Redstone).md",
-    "SF-農耕工藝關係筆記/粗金 (Raw Gold).md",
-    "SF-農耕工藝關係筆記/花卉 (Flower).md",
     "SF-農耕工藝關係筆記/未命名",
     "SF-農耕工藝關係筆記"
   ]
