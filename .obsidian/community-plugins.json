@@ -5,5 +5,6 @@
   "obsidian-outliner",
   "obsidian-style-settings",
   "obsidian-checklist-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]

@@ -156,5 +156,22 @@
       ],
       "key": "T"
     }
+  ],
+  "templater-obsidian:replace-in-file-templater": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }
