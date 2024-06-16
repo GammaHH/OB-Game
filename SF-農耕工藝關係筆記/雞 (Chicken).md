@@ -5,7 +5,7 @@
 1. [[海龜 (Turtle)]]
 2. [[兔子 (Rabbit)]]
 3. [[羊 (Sheep)]]
-4. [[凋零 (Wither)]]
+4. [[凋零 (Wither) (小)]]
 5. [[幻翼 (Phantom)]]
 #可培5 
 

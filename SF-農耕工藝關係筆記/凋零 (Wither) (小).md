@@ -1,5 +1,5 @@
 ### 合成
-[[幻翼 (Phantom)]]+[[雞 (Chicken)]]
+[[村民 (Villager)]]+[[火 (Fire)]]
 
 #### 可培養的新種:
 1. [[凋零玫瑰 (Wither Rose)]]
